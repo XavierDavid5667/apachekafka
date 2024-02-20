@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\xavie\OneDrive\Documents\apachekafka\.metadata\.plugins\org.eclipse.jdt.core
+1287580752.index
+1865797976.index
+585086131.index
